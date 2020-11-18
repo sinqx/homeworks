@@ -1,1 +1,1 @@
-# java_academy
+# homeworks
