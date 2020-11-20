@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3fcc076-e032-4693-b1cd-ef51e3f81d30" name="Default Changelist" comment="" />
+    <list default="true" id="f3fcc076-e032-4693-b1cd-ef51e3f81d30" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +57,14 @@
       <option name="presentableId" value="Default" />
       <updated>1605712069882</updated>
     </task>
+    <task id="LOCAL-00001" summary="inittial commit">
+      <created>1605714905462</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605714905462</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -67,5 +77,25 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="try" />
+    <MESSAGE value="inittial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="inittial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="167" y="81" key="DiffContextDialog" timestamp="1605714934452">
+      <screen x="0" y="0" width="1739" height="978" />
+    </state>
+    <state x="167" y="81" key="DiffContextDialog/0.0.1739.978@0.0.1739.978" timestamp="1605714934452" />
+    <state x="462" y="223" key="Vcs.Push.Dialog.v2" timestamp="1605714937663">
+      <screen x="0" y="0" width="1739" height="978" />
+    </state>
+    <state x="462" y="223" key="Vcs.Push.Dialog.v2/0.0.1739.978@0.0.1739.978" timestamp="1605714937663" />
+    <state x="298" y="110" key="new project wizard" timestamp="1605871494213">
+      <screen x="0" y="0" width="1739" height="978" />
+    </state>
+    <state x="298" y="110" key="new project wizard/0.0.1739.978@0.0.1739.978" timestamp="1605871494213" />
   </component>
 </project>
