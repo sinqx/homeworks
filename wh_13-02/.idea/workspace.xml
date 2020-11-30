@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="488d4432-f3b1-43e6-8fbf-5b9e6b143385" name="Default Changelist" comment="hw_13-02. A,B,B." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1kYJGLJ6ZYyu3TS8rfpaUCDXwtj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hw15/src/com/company/Main.java" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="wh_13-02" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="488d4432-f3b1-43e6-8fbf-5b9e6b143385" name="Default Changelist" comment="" />
+      <created>1605871497730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605871497730</updated>
+    </task>
+    <task id="LOCAL-00001" summary="hw_13-02. A,B,B.">
+      <created>1605877468170</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605877468170</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hw_13-02. A,B,B.">
+      <created>1605877552868</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605877552868</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hw_13-02. A,B,B." />
+    <option name="LAST_COMMIT_MESSAGE" value="hw_13-02. A,B,B." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="167" y="81" key="DiffContextDialog" timestamp="1605877568225">
+      <screen x="0" y="0" width="1739" height="978" />
+    </state>
+    <state x="167" y="81" key="DiffContextDialog/0.0.1739.978@0.0.1739.978" timestamp="1605877568225" />
+    <state x="607" y="246" key="FileChooserDialogImpl" timestamp="1606745015202">
+      <screen x="0" y="0" width="1739" height="978" />
+    </state>
+    <state x="607" y="246" key="FileChooserDialogImpl/0.0.1739.978@0.0.1739.978" timestamp="1606745015202" />
+    <state width="1696" height="167" key="GridCell.Tab.0.bottom" timestamp="1605878020982">
+      <screen x="0" y="0" width="1739" height="978" />
+    </state>
+    <state width="1696" height="167" key="GridCell.Tab.0.bottom/0.0.1739.978@0.0.1739.978" timestamp="1605878020982" />
+    <state width="1696" height="167" key="GridCell.Tab.0.center" timestamp="1605878020982">
+      <screen x="0" y="0" width="1739" height="978" />
+    </state>
+    <state width="1696" height="167" key="GridCell.Tab.0.center/0.0.1739.978@0.0.1739.978" timestamp="1605878020982" />
+    <state width="1696" height="167" key="GridCell.Tab.0.left" timestamp="1605878020982">
+      <screen x="0" y="0" width="1739" height="978" />
+    </state>
+    <state width="1696" height="167" key="GridCell.Tab.0.left/0.0.1739.978@0.0.1739.978" timestamp="1605878020982" />
+    <state width="1696" height="167" key="GridCell.Tab.0.right" timestamp="1605878020982">
+      <screen x="0" y="0" width="1739" height="978" />
+    </state>
+    <state width="1696" height="167" key="GridCell.Tab.0.right/0.0.1739.978@0.0.1739.978" timestamp="1605878020982" />
+    <state x="543" y="194" key="NewModule_or_Project.wizard" timestamp="1606744979862">
+      <screen x="0" y="0" width="1739" height="978" />
+    </state>
+    <state x="543" y="194" key="NewModule_or_Project.wizard/0.0.1739.978@0.0.1739.978" timestamp="1606744979862" />
+    <state x="462" y="223" key="Vcs.Push.Dialog.v2" timestamp="1605878020013">
+      <screen x="0" y="0" width="1739" height="978" />
+    </state>
+    <state x="462" y="223" key="Vcs.Push.Dialog.v2/0.0.1739.978@0.0.1739.978" timestamp="1605878020013" />
+    <state x="688" y="404" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605878012972">
+      <screen x="0" y="0" width="1739" height="978" />
+    </state>
+    <state x="688" y="404" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1739.978@0.0.1739.978" timestamp="1605878012972" />
+    <state x="298" y="110" key="new project wizard" timestamp="1605880817899">
+      <screen x="0" y="0" width="1739" height="978" />
+    </state>
+    <state x="298" y="110" key="new project wizard/0.0.1739.978@0.0.1739.978" timestamp="1605880817899" />
+  </component>
+</project>
