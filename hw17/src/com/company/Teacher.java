@@ -10,6 +10,11 @@ public class Teacher extends  Person{
         this.salary = salary;
     }
 
+    @Override
+    public String toString() {
+        return "Имя:" + this.name + ", язык преподавания : " + this.codeLang;
+    }
+
     public String getCodeLang() {
         return codeLang;
     }

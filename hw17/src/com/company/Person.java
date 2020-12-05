@@ -28,6 +28,12 @@ public class Person {
     }
 
 
+    @Override
+    public String toString() {
+        String message;
+        message = "Имя: " + this.name + "фамилия: " + this.surname + ", дата рождения: " + this.birthYear;
+        return message;
+    }
 
     public void setBirthYear(int birthYear){
         this.birthYear = 2020 - age;
