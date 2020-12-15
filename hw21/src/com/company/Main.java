@@ -9,6 +9,11 @@ public class Main {
 	Credit fourth = new Credit(4,31800,"1 year",15.0);
 	Credit fifth = new Credit(5,9100,"1 month, 12 days" ,12.7);
 
+        System.out.println(Credit.getAvg());
+        System.out.println(Credit.getAllSum());
+        System.out.println(Credit.getQuantity());
+
+////////////////////////////////////////////////////////////////////////////////////
     Credit[] IvansCredits = new Credit[]{first,second,third,fourth,fifth};
 
     creditInfo(IvansCredits, IvansCredits.length-1, 0);
