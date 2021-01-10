@@ -40,7 +40,6 @@ public class Main {
                 break;
             default:System.out.println("Выберите один из трёх вариантов");break;
         }
-
     }
 
     static String cheapBuy(Shop[] shop, Purchase Glasses){

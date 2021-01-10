@@ -57,7 +57,7 @@ public class Drawing extends Canvas{        // Задача Б
             y= +150+size;
         }
 
-        int i = -1;
+        int i = 0;
         for(int x = coordinateX ; x < size + coordinateX - corrector; x=x+10)
         {
             int x2 = x+10;
@@ -65,9 +65,9 @@ public class Drawing extends Canvas{        // Задача Б
             int y2 = (int)Math.pow(step++,type)+ coordinateY;
             graphics.drawLine(x,y,x2,y2);
 
-            INFO[++i]  = "------ Линия номер " + --step + " начинается с Х1- " + x + ", Y1- " + y +
+            INFO[i]  = "------ Линия номер " + --step + " начинается с Х1- " + x + ", Y1- " + y +
                     " и заканчивается на Х2 -" + x2 + ", Y2-" + y2;
-            System.out.println( INFO[i]);
+            System.out.println( INFO[i++]);
         }
     }
 
