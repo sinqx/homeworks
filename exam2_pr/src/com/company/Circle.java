@@ -9,7 +9,7 @@ public class Circle {
 
     public void CircleGenerate(){
         this.R = random.nextInt(11);
-        this.S = (int) (PI * R * 2);
+        this.S = (int) (PI * R * R);
     }
 
     public double getS() {
