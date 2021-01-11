@@ -1,8 +1,8 @@
 package com.company;
 
-public class Bread {
-    int cost;
-    String color;
-    String size;
-
+public class Bread implements Bakable{
+    @Override
+    public void bake(){
+        System.out.println("Выпекаемый");
+    }
 }
